@@ -3,6 +3,7 @@ The focus of this project was to create a Sensor that measures the wear of a cha
 
 <!-- Insert Image Here -->
 
+<!-- LINK SUMMARY VIDEO SOMEWHERE IN THE README!! -->
 
 ## Table of Contents
 
