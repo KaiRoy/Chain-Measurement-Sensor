@@ -35,7 +35,17 @@ At the end of our project, we were able to meet 3 of the 4 project partner requi
 
 ## Designs
 
+For the design portion of this project, the system's design was split into eight blocks with each person handling the design for two blocks. Adam handled the design of the Power Filter and the Power Regulator Blocks. Tianhao designed the Microcontroller and CAN Communication Circuits. The sensor and PCB blocks were handled by Kai. The code and the enclosure blocks were designed by Corbin. 
 
+<!-- Insert Image Here -->
+
+<!-- Insert Descriptions for Power Blocks -->
+
+<!-- Insert Descriptions for uC and CAN -->
+
+<!-- Insert Descriptions for Sensors and PCB -->
+
+<!-- Insert Descriptions for Enclosure and Code -->
 
 
 ## Current State of the Project
@@ -77,6 +87,7 @@ If your project has a lot of features, list them here.
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
+- Kai Roy
 - 
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
